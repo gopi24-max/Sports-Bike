@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(90deg,black,red,black);
+
+
+}
+h1{
+    font-style: oblique;
+    color:black;
+    text-shadow: black;
+}
+img{
+    margin-top:80px;
+     margin-left:250px;
+     border-radius:50px ;
+     border-image: stretch;
+}
